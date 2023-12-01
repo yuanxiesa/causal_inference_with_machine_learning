@@ -3,8 +3,6 @@ rm(list=ls())
 library(bnlearn)
 library(tidyverse)
 
-setwd("C:/Users/yuanx/OneDrive/Documents/U_of_I/Class/2023_EPSY590ML/project_2")
-
 # This code follows:
 #Scutari, M. (2022, November 30). 
 # Reproducing the causal signalling network in Sachs et al., Science (2005).
