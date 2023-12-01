@@ -4,8 +4,6 @@ library(pcalg)
 library(readxl)
 library(corrplot)
 
-setwd("C:/Users/yuanx/OneDrive/Documents/U_of_I/Class/2023_EPSY590ML/project_2")
-
 #load the discretized interventional data by Marco Scutari
 isachs = read.table("sachs_data_processed/sachs.interventional.txt",header = TRUE)
 
